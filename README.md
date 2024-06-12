@@ -13,11 +13,10 @@ $ google-chrome-stable --headless --disable-gpu --print-to-pdf="output.pdf" "htt
 
 ## Requirements
 
-- You need an installation of [Apptainer](https://apptainer.org/) (e.g. following
-  the [quick
-  installation](https://apptainer.org/docs/user/latest/quick_start.html#quick-installation)).
-  Alternatively, [SingularityCE](https://sylabs.io/singularity/) should also
-  work.
+You need an installation of [Apptainer](https://apptainer.org/) (e.g. following the
+[quick installation](https://apptainer.org/docs/user/latest/quick_start.html#quick-installation)).
+Alternatively, [SingularityCE](https://sylabs.io/singularity/) should also
+work.
 
 
 ## How to use it
